@@ -1,4 +1,4 @@
-# Classical & Quantum Data Analysis
+# Data Anomaly Detection Model
 
 ## Overview
 This project focuses on analyzing transactional data using **Pandas**, **NumPy**, and **Seaborn** for visualization. The dataset is processed to extract meaningful insights, detect null values, and analyze transaction patterns.
